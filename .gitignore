@@ -1,0 +1,4 @@
+toy-TEE/hello_world_tee/optee/
+*.log
+secure_enclave/target/
+*.lock
